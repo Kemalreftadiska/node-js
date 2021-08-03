@@ -1,0 +1,25 @@
+{
+  "name": "sederhana",
+  "version": "1.0.0",
+  "description": "Mencoba NodeJs",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"hello World!\""
+  },
+  "keywords": [
+    "[\"nodejs\"]"
+  ],
+  "author": "\"Kemal Refta Diska\"",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8",
+    "@babel/node": "^7.14.9",
+    "@babel/preset-env": "^7.14.9"
+  }
+}
